@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VlBuFhind/Dw1nFalcXEAzrLUuFD0+OD/MzK1WfYgW2MDRPWmjhqvNI/yZcooBHu8qebPMWbIK/mBUXD3cVdnQ==",
+  "success": true,
+  "projectFilePath": "/volumes/user/home/manaspersonal/Documents/CodeRepo/Test1/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/home/manaspersonal/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
